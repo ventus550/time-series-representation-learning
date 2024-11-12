@@ -1,0 +1,3 @@
+[submodule "ts2vec"]
+	path = ts2vec
+	url = git@github.com:ventus550/ts2vec.git
