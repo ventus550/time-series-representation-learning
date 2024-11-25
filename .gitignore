@@ -8,6 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+private/
 datasets/
 time-series-venv/
 build/
