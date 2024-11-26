@@ -4,3 +4,6 @@
 [submodule "trep"]
 	path = trep
 	url = git@github.com:ventus550/trep.git
+[submodule "timevae"]
+	path = timevae
+	url = git@github.com:ventus550/timevae.git
