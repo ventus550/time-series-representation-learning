@@ -15,3 +15,5 @@ statsmodels
 pandas
 scikit_learn
 seaborn
+pyyaml==6.0.1
+tensorflow==2.16.1
